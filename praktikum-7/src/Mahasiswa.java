@@ -3,11 +3,14 @@ public class Mahasiswa {
     private String nim;
     private double ipk;
 
-    //Constructor Default (Tanpa Parameter)
-    public Mahasiswa(){
-        nama = "Belum Diisi";
-        nim = "-";
-        ipk = 0.0;
+    public String getNama() {
+        return nama;
+    }
+    public String getNim() {
+        return nim;
+    }
+    public double getIpk() {
+        return ipk;
     }
 
     public Mahasiswa(String nama, String nim, Double ipk) {
