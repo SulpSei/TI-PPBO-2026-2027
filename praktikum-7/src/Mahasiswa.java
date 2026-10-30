@@ -13,6 +13,14 @@ public class Mahasiswa {
         return ipk;
     }
 
+    public void setIpk(double ipk) {
+        if (ipk >= 0.0 && ipk <= 4.0) {
+            this.ipk = ipk;
+        } else {
+            System.out.println("IPK tidak valid, harus 0.0 - 4.0");
+        }
+    }
+
     public Mahasiswa(String nama, String nim, Double ipk) {
         this.nama = nama;//this.nama = atribut, nama = parameter
         this.nim = nim;
