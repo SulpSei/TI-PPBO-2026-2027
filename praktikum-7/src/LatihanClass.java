@@ -3,7 +3,7 @@ public class LatihanClass {
 
         Mahasiswa m1 = new Mahasiswa("Budi","111",3.5);
 
-        m1.setIpk(3.8);
+        m1.setNim(999);
         System.out.println("IPK Sekarang: " + m1.getIpk());
         m1.setIpk(9.9);
         System.out.println("IPK Sekarang: " + m1.getIpk());
