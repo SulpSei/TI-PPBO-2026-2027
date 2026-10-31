@@ -25,6 +25,8 @@ TI-PPBO-2026-2027/
 +-- praktikum-3/       # Struktur Kontrol
 +-- praktikum-4/       # Perulangan & Array
 +-- praktikum-5/       # Method dan Fungsi
++-- praktikum-6/       # Class dan Object
++-- praktikum-7/       # Encapsulation
 +-- README.md
 ```
 
@@ -39,6 +41,8 @@ TI-PPBO-2026-2027/
 | Modul 3 | Struktur Kontrol | Selesai |
 | Modul 4 | Perulangan & Array | Selesai |
 | Modul 5 | Method dan Fungsi | Selesai |
+| Modul 6 | Class dan Object | Selesai |
+| Modul 7 | Encapsulation | Selesai |
 
 
 ## Teknologi
