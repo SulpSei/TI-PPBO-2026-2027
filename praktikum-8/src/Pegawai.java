@@ -1,13 +1,12 @@
 public class Pegawai {
-    protected String nama;
-    protected String nip;
-    protected double gajiPokok;
+    private String nama;
+    private String nip;
+    private double gajiPokok;
 
     public Pegawai(String nama, String nip, double gajiPokok) {
         this.nama = nama;
         this.nip = nip;
         this.gajiPokok = gajiPokok;
-        System.out.println("1. Constructor Pegawai Dijalankan");
     }
 
     public void tampilkanData() {
