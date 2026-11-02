@@ -7,6 +7,7 @@ public class Pegawai {
         this.nama = nama;
         this.nip = nip;
         this.gajiPokok = gajiPokok;
+        System.out.println("1. Constructor Pegawai Dijalankan");
     }
 
     public void tampilkanData() {
