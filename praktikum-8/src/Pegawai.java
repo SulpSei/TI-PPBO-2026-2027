@@ -1,7 +1,7 @@
 public class Pegawai {
-    private String nama;
-    private String nip;
-    private double gajiPokok;
+    protected String nama;
+    protected String nip;
+    protected double gajiPokok;
 
     public Pegawai(String nama, String nip, double gajiPokok) {
         this.nama = nama;
