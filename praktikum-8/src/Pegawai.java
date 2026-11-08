@@ -6,7 +6,7 @@ public class Pegawai {
     public Pegawai(String nama, String nip, double gajiPokok) {
         this.nama = nama;
         this.nip = nip;
-        this.gajiPokok = gajiPokok;
+        this.gajiPokok = (gajiPokok >= 0) ? gajiPokok : 0;
     }
 
     public void tampilkanData() {
