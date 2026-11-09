@@ -28,6 +28,7 @@ TI-PPBO-2026-2027/
 +-- praktikum-6/       # Class dan Object
 +-- praktikum-7/       # Encapsulation
 +-- praktikum-8/       # Inheritance
++-- praktikum-9/       # Polymorphism
 +-- README.md
 ```
 
@@ -44,7 +45,8 @@ TI-PPBO-2026-2027/
 | Modul 5 | Method dan Fungsi | Selesai |
 | Modul 6 | Class dan Object | Selesai |
 | Modul 7 | Encapsulation | Selesai |
-| Modul 7 | Inheritance | Selesai |
+| Modul 8 | Inheritance | Selesai |
+| Modul 9 | Polymorphism | Selesai |
 
 
 ## Teknologi
