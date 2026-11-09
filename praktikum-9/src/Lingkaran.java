@@ -1,13 +1,20 @@
 public class Lingkaran extends BangunDatar{
     private double radius;
 
-    public Lingkaran(double radius) {
+    public Lingkaran(String namaBangun, double radius) {
+        super(namaBangun);
         this.radius = radius;
     }
 
     @Override
     public double hitungLuas() {
-        System.out.println("Lingkaran = ");
+
         return Math.PI * radius * radius;
+    }
+
+    @Override
+    public double hitungKeliling() {
+
+        return 2 * Math.PI * radius;
     }
 }
