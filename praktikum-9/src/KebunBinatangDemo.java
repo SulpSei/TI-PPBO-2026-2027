@@ -3,7 +3,10 @@ public class KebunBinatangDemo {
         Kucing k1 = new Kucing("Meng");
         Anjing a1 = new Anjing("Beki");
 
-        k1.bersuara();
-        a1.bersuara();
+        Hewan h1 = new Kucing("Milo");
+        Hewan h2 = new Anjing("Rex");
+
+        h1.bersuara();
+        h2.bersuara();
     }
 }
