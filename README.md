@@ -44,7 +44,7 @@ TI-PPBO-2026-2027/
 | Modul 5 | Method dan Fungsi | Selesai |
 | Modul 6 | Class dan Object | Selesai |
 | Modul 7 | Encapsulation | Selesai |
-| Modul 7 | Inheritance | Selesai |
+| Modul 8 | Inheritance | Selesai |
 
 
 ## Teknologi
